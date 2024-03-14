@@ -2,8 +2,6 @@
 <h3 align="center">I am a beginner frontend developer from Kyiv, Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Vue.js, React.js and Angular**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
